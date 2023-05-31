@@ -23,7 +23,7 @@
     <div>
     <h2>Cursos y certificaciones</h2>
     <ul>
-        <li>Inteligencia artificial con Deep Learning (Universidade de Vigo)</li>
+        <li>Curso de Inteligencia artificial con Deep Learning (Universidade de Vigo)</li>
         <li>Curso de Introducción a bolsa (Universidade de Vigo)</li>
     </ul>
 </div>
