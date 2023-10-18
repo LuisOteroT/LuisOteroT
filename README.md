@@ -14,6 +14,7 @@
         <li>Lenguajes de programación: Java, C, Python.</li>
         <li>Desarrollo de aplicaciones web con HTML, CSS y JavaScript.</li>
         <li>Conocimientos en redes y telecomunicaciones.</li>
+        <li>Inteligencia Artificial y Big data 🚀.</li>
     </ul>
 </div>
 <div>    
